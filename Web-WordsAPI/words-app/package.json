@@ -1,0 +1,18 @@
+{
+  "name": "words-app",
+  "version": "1.0.0",
+  "description": "An interactive Words cli",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryce DeBilzan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "superagent": "^4.1.0",
+    "unirest": "^0.6.0",
+    "wordsmodule": "file:../wordsModule",
+    "yargs": "^13.2.2"
+  }
+}

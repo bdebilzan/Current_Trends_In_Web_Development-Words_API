@@ -1,5 +1,5 @@
-// Export a method for API search
-// Export a method for API fetch
+// Export method for API search
+// Export method for API fetch
 
 const 
     config = require('./config')

@@ -1,7 +1,4 @@
-// application that allows uses the custom-module
-// allows the user to search, select a result, fetch details and display details
-//- The app should allow a user to select from a search result and then fetch details
-//- The app should display the details formatted cleanly printed as strings (do not print objects).
+// allows the user to search, select a result, fetch details, and display details
 
 const
     inquirer = require('inquirer')

@@ -1,8 +1,7 @@
 // CLI using yargs for search command
 // ex: node cli.js search -k keyword
-//  - The CLI app should display a help menu by typing: `node cli.js help`
-// - The CLI should include a search command `node cli.js search <item to be search>`
-// The CLI portion should not contain the API URL. The CLI should only being using your custom node module.
+// The CLI app displays a help menu by typing: `node cli.js help`
+// The CLI includes a search command `node cli.js search <item to be search>`
 
 const
     app = require('./app')
